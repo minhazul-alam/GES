@@ -1,4 +1,3 @@
-
 % -----------------------------------------------------------------------
 %  Greenhouse Energy Simulation model
 %  Single zone greenhouse, unheated
